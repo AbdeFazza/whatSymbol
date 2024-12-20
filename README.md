@@ -70,6 +70,6 @@ After running the `letteranddigitrecognition.py` script, a Gradio link will be p
 *   **UI:** The Gradio interface makes the final model accessible to the user.
 
 ## Results
-    - By using an MLP model, an accuracy of 86% was reached, making it the best model of the project.
-    - The SVM model had the second best performance, with an accuracy of 84%.
-    - Both the Random Forest and KNN models performed similarly, reaching an accuracy around 80%.
+ - By using an MLP model, an accuracy of 86% was reached, making it the best model of the project.
+ - The SVM model had the second best performance, with an accuracy of 84%.
+ - Both the Random Forest and KNN models performed similarly, reaching an accuracy around 80%.
